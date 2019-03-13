@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Manager : MonoBehaviour {
+public class DataImporter {
 
 	// Use this for initialization
 	void Start () {
